@@ -1,7 +1,7 @@
 # Polarized-Online-Discourse-on-Abortion
 
 GitHub Repository for the paper - Polarized Online Discourse on Abortion: Different Frames and Expressions of Hostility among Liberals and Conservatives. 
-Tweet-ids corresponding to this analysis has been sourced from [#RoeOverturned: Twitter Dataset on the Abortion Rights Controversy]([https://github.com/echen102/COVID-19-TweetIDs](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/STU0J5). Owing to Twitter's policy we are restricted to sharing tweet-ids and users can rehydrate this dataset using [hydrator](https://github.com/DocNow/hydrator). Upon rehydrating the content place them in a .csv file under the data directory.
+Tweet-ids corresponding to this analysis has been sourced from [#RoeOverturned: Twitter Dataset on the Abortion Rights Controversy](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/STU0J5). Owing to Twitter's policy we are restricted to sharing tweet-ids and users can rehydrate this dataset using [hydrator](https://github.com/DocNow/hydrator). Upon rehydrating the content place them in a .csv file under the data directory.
 
 ### Identifying Ideology
 
