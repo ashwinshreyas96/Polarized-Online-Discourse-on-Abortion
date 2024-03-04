@@ -9,13 +9,13 @@ To generate embeddings you need to download the FastText Twitter bi-gram model f
 
 ### Identifying Hostile Expression
 
-- To identify anger use the SpanEmo classifier (https://github.com/hasanhuz/SpanEmo).
-- To identify toxicity, obscenity and insults use the Detoxify classifier (https://github.com/unitaryai/detoxify).
-- To identify hate speech use the Hate Speech classifier (https://github.com/cardiffnlp/tweeteval).
+- To identify anger use the [SpanEmo classifier](https://github.com/hasanhuz/SpanEmo).
+- To identify toxicity, obscenity and insults use the [Detoxify classifier](https://github.com/unitaryai/detoxify).
+- To identify hate speech use the CardiffNLP's [Hate Speech classifier](https://github.com/cardiffnlp/tweeteval).
 
 ### Identifying Frames
 
-- Run the Extract_Frame_Keywords.ipynb notebook to extract frame relevant keywords from Wikipedia articles under /data directory.
+- Run the Extract_Frame_Keywords.ipynb notebook to extract frame relevant keywords from Wikipedia articles under data directory.
 
 ### Analysis
 
